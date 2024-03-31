@@ -1,5 +1,5 @@
 
-<h1 align="center">REPO NAME</h1>
+<h1 align="center">rubytestfield</h1>
 <p> 
     <img src='https://img.shields.io/badge/Mail-Renaud.Baussart%40proton.me-purple'>
     <a href='https://www.linkedin.com/in/renaud-baussart-278b362bb/'>
@@ -16,6 +16,7 @@
 ---
 
 ## About The Project
+this repository has for purpose to be a test place to learn ruby
 
 ### Built With
 
@@ -30,8 +31,12 @@
 
 ## Author
 
+Renaud Baussart
+
 ## License
 
 Distributed under the MIT License. `LICENSE` See for more information.
 
 ## Ressource
+
+https://www.ruby-lang.org/en/
