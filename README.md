@@ -23,6 +23,7 @@ this repository has for purpose to be a test place to learn ruby
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 - ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![Static Badge](https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=Ruby)
 
 <details>
 <summary><h2>Checklist</h2></summary>
